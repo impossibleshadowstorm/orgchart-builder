@@ -61,6 +61,7 @@ Remaining TODOs
 - Implement better error handling and logging.
 - Implement Authentication for secure endpoints like updating managers.
 - Write unit tests for API endpoints.
+- Add Fixtures.
 ```
 
 Priority was given to ensuring the core functionality (drag-and-drop + API integration) worked seamlessly within the given time frame.
