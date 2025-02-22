@@ -21,3 +21,17 @@ This project consists of a **frontend** (React with Vite) and a **backend** (Fas
    - Go to the frontend folder and follow the instructions in frontend/README.md.
 
 For more details, refer to the README.md files in the respective folders.
+
+## API Documentation
+
+A Postman collection containing all the API endpoints is available in the root directory of the project:
+
+```txt
+File Name: OrgChart-Builder.postman_collection.json
+```
+
+How to Use:
+
+- Open Postman.
+- Click on Import and select the OrgChart-Builder.postman_collection.json file.
+- Once imported, you can explore and test all the API endpoints.
