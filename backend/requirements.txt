@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+passlib
+pydantic>=2.0
+pydantic-settings
+pydantic[email]
+email-validator
+python-multipart
+alembic
